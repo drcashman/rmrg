@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
-
 *Papers on regional music topics by current and former RMRG members.*
 
 Bennett, A., Cashman, D., Green, B., & Lewandowski, N. (Eds.). (2023). [Popular Music Scenes: Regional and Rural Perspectives](https://doi.org/10.1007/978-3-031-08615-1). Springer International Publishing.
