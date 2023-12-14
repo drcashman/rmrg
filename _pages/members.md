@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: Members
 permalink: /members/
 ---
 
-# RMRG Members
+## RMRG Members
 
 ### Professor Andy Bennett, Griffith University
 
