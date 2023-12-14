@@ -100,9 +100,9 @@ navbar:
   - title   : About
     url     : /_posts/about/ # url
   - title   : Members
-    url     : /_pages/members.html # url
+    url     : /members # url
   - title   : Publications
-    url     : /_posts/publications/ # url
+    url     : /publications # url
   - title   : Extras
     child   :
       - title : Tags
