@@ -98,11 +98,11 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : About
-    url     : /about/ # url
+    url     : /_posts/about/ # url
   - title   : Members
     url     : /_pages/members.html # url
   - title   : Publications
-    url     : /publications/ # url
+    url     : /_posts/publications/ # url
   - title   : Extras
     child   :
       - title : Tags
