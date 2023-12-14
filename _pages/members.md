@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Members
+title: RMRG Members
 permalink: /members/
 ---
-
-## RMRG Members
 
 ### Professor Andy Bennett, Griffith University
 
@@ -29,6 +27,8 @@ Alana is a highly regarded recorder player, performing in Australia, New Zealand
 ---
 
 ### Dr David Cashman, Southern Cross University
+
+<img src="assets/images/david.png" style="width: 200px; height: 200px; float: left; margin: 10px; padding: 2px; border-radius: 50%; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);">
 
 Dr David Cashman is a pianist, researcher, and adjunct Associate Professor at Southern Cross University. His research areas focus on live music, specifically live music performance practice, live music and tourism, and live music in regional areas. He is a founder of the RMRG.
 
