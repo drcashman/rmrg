@@ -1,3 +1,9 @@
+---
+layout: page
+title: Members
+permalink: /members/
+---
+
 # RMRG Members
 
 ### Professor Andy Bennett, Griffith University

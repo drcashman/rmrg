@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+permalink: /publications
+---
+
 # Publications
 
 *Papers on regional music topics by current and former RMRG members.*
