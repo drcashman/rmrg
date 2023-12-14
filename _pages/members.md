@@ -28,15 +28,19 @@ Alana is a highly regarded recorder player, performing in Australia, New Zealand
 
 ### Dr David Cashman, Southern Cross University
 
-<img src="assets/images/david.png" style="width: 200px; height: 200px; float: left; margin: 10px; padding: 2px; border-radius: 50%; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);">
+<img src="../assets/images/david.png" style="width: 100px; height: 100px; float: left; margin: 10px; padding: 2px; border-radius: 50%; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);">
 
+<div>
 Dr David Cashman is a pianist, researcher, and adjunct Associate Professor at Southern Cross University. His research areas focus on live music, specifically live music performance practice, live music and tourism, and live music in regional areas. He is a founder of the RMRG.
 
 [ORCID](https://orcid.org/0000-0003-4534-2947) | [Website](http://www.davidcashman.com.au)
+</div>
 
 ---
 
 ### Ms Devpriya Chakravarty, Griffith University
+
+<img src="../assets/images/daevpriya.png" style="width: 100px; height: 100px; float: left; margin: 10px; padding: 2px; border-radius: 50%; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);">
 
 Dr Devpriya Chakravarty is a PhD student at Griffith University in Gold Coast, Australia, focusing on popular music and global south youth cultures. Their research interests center around Electronic Dance Music (EDM) as a cultural phenomenon in India, exploring themes such as identity, belonging, and community building.
 
@@ -44,17 +48,29 @@ Dr Devpriya Chakravarty is a PhD student at Griffith University in Gold Coast, A
 
 ### Dr Lachlan Goold, University of the Sunshine Coast
 
+<img src="../assets/images/lachlan.png" style="width: 100px; height: 100px; float: left; margin: 10px; padding: 2px; border-radius: 50%; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);">
+
+<div>
+
 Lachlan Goold, aka Magoo, is a music producer, popular music educator, and researcher. He has produced award-winning albums and his research focuses on practice-based music production, cultural geography, and the music industry. He lectures in Contemporary Music at the University of the Sunshine Coast.
 
 [ORCID](https://orcid.org/0000-0002-8635-2466) | [Website](https://magoosound.com/)
+
+</div>
 
 ---
 
 ### Dr Ben Green, Griffith University
 
+<img src="../assets/images/ben.png" style="width: 100px; height: 100px; float: left; margin: 10px; padding: 2px; border-radius: 50%; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);">
+
+<div>
+
 Dr Ben Green, a cultural sociologist and Postdoctoral Fellow at Griffith University, is researching crisis and reinvention in Australia's live music sector. His interests include popular music, youth studies and cultural infrastructure. He has published in various journals and is co-editing a book on popular music scenes.###
 
 [ORCID](https://orcid.org/0000-0002-3382-8707)
+
+</div>
 
 ---
 
